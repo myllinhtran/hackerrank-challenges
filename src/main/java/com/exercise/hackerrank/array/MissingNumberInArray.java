@@ -10,7 +10,7 @@ import java.util.List;
 public class MissingNumberInArray {
 
     public List<Integer> printMissingNumber(int[] numbers) {
-        List<Integer> missingNumbers = new ArrayList<Integer>(); // List<> is an interface with method ArrayList<>
+        List<Integer> missingNumbers = new ArrayList<Integer>();
         Arrays.sort(numbers);
         System.out.println("Test list: " + Arrays.toString(numbers));
         for (int i = 0; i < numbers.length - 1; i++) {
