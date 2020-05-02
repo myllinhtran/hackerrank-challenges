@@ -1,9 +1,6 @@
 package com.exercise.hackerrank.implementation;
 
 
-/**
- * {@see https://www.hackerrank.com/challenges/apple-and-orange/problem?h_r=next-challenge&h_v=zen}
- */
 public class AppleAndOrange {
 
     public static void main(String[] args) {

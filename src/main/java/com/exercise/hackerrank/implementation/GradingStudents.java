@@ -3,9 +3,6 @@ package com.exercise.hackerrank.implementation;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * {@see https://www.hackerrank.com/challenges/grading/problem}
- */
 
 public class GradingStudents {
 

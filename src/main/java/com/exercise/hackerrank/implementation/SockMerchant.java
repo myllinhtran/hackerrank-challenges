@@ -3,10 +3,7 @@ package com.exercise.hackerrank.implementation;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Problem:
- * {@see https://www.hackerrank.com/challenges/sock-merchant/}
- */
+
 public class SockMerchant {
 
     public static void main(String[] args) {

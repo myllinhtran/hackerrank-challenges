@@ -1,9 +1,6 @@
 package com.exercise.hackerrank.implementation;
 
 
-/**
- * {@see https://www.hackerrank.com/challenges/kangaroo/problem?h_r%5B%5D=next-challenge&h_r%5B%5D=next-challenge&h_v%5B%5D=zen&h_v%5B%5D=zen}
- */
 public class Kangaroo {
 
     public static void main(String[] args) {

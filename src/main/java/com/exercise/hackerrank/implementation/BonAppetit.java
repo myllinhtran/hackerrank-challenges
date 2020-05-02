@@ -3,10 +3,7 @@ package com.exercise.hackerrank.implementation;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Problem:
- * {@see https://www.hackerrank.com/challenges/bon-appetit/problem?h_r=next-challenge&h_v=zen}
- */
+
 public class BonAppetit {
 
     public static void main(String[] args) {

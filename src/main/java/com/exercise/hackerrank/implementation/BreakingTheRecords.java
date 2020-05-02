@@ -2,10 +2,7 @@ package com.exercise.hackerrank.implementation;
 
 import java.util.Arrays;
 
-/**
- * Problem:
- * {@see https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem}
- */
+
 public class BreakingTheRecords {
 
     public static void main(String[] args) {

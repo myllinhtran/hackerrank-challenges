@@ -1,9 +1,6 @@
 package com.exercise.hackerrank.implementation;
 
-/**
- * Problem:
- * {@see https://www.hackerrank.com/challenges/day-of-the-programmer/problem?h_r=next-challenge&h_v=zen}
- */
+
 public class DayOfTheProgrammer {
 
     public static void main(String[] args) throws Exception {
