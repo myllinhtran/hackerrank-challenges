@@ -3,14 +3,12 @@ package com.exercise.hackerrank.string;
 
 public class AlternatingCharacters {
 
-    // Driver to run & test method
     public static void main(String[] args) {
         String s = "AAABBB";
         int result = alternatingCharacters(s);
         System.out.println(result);
     }
 
-    // Method
     public static int alternatingCharacters(String s) {
         int letterToRemove = 0;
 
