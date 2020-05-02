@@ -3,11 +3,8 @@ package com.exercise.hackerrank.string;
 public class HackerrankInAString {
 
     public static void main(String[] args) {
-        String s1 = "hereiamstackerrank";
-        String s2 = "hackerworld";
-        String s3 = "hhaacckkekraraannk";
-        String s4 = "rhbaasdndfsdskgbfefdbrsdfhuyatrjtcrtyytktjjt";
-        String result = hackerrankInString(s4);
+        String s = "rhbaasdndfsdskgbfefdbrsdfhuyatrjtcrtyytktjjt";
+        String result = hackerrankInString(s);
         System.out.println(result);
     }
 

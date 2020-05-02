@@ -1,9 +1,6 @@
 package com.exercise.hackerrank.string;
 
 
-/**
- * Function to return an integer representing the minimum number of deletions to make the alternating string.
- */
 public class AlternatingCharacters {
 
     // Driver to run & test method

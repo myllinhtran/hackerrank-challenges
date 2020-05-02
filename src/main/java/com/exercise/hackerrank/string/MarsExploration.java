@@ -1,11 +1,6 @@
 package com.exercise.hackerrank.string;
 
 
-/**
- * Problem:
- * {@see https://www.hackerrank.com/challenges/mars-exploration/problem}
- * @author My Linh Tran
- */
 public class MarsExploration {
 
     public static void main(String[] args) {

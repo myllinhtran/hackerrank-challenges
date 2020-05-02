@@ -1,8 +1,6 @@
 package com.exercise.hackerrank.string;
 
-/**
- * Interview Kit: Easy
- */
+
 public class ChristmasTree {
 
     private static void printChristmasTree2(int height) {

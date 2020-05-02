@@ -9,7 +9,6 @@ public class CountOccurence {
         String word = "harry potter";
         char letter = 't';
         System.out.printf("%n The times letter '%s' is repeated in '%s': %d", letter, word, countOccurence(word, letter));
-        System.out.printf("%n The times letter '%s' is repeated in '%s': %d", letter, word, countAppearance(word, letter));
     }
 
     public static Integer countOccurence(String word, char letter) {

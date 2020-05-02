@@ -6,11 +6,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * Problem: Migratory Birds
- * Author: My Linh Tran
- *
- */
+
 public class MigratoryBirds {
 
     public static void main(String[] args) {
