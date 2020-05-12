@@ -1,7 +1,7 @@
 package com.exercise.thirtyDaysOfCode;
 import java.util.*;
 
-public class day01 {
+public class Day01 {
 
     public static void main(String[] args) {
         int i = 4;
