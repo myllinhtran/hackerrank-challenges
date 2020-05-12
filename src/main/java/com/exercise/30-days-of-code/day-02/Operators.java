@@ -1,6 +1,6 @@
 package com.exercise.thirtyDaysOfCode;
 
-public class Day02 {
+public class Operators {
 
     private static void solve(double meal_cost, int tip_percent, int tax_percent) {
 
