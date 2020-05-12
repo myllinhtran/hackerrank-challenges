@@ -1,7 +1,7 @@
 package com.exercise.thirtyDaysOfCode;
 import java.util.*;
 
-public class Day01 {
+public class DataTypes {
 
     public static void main(String[] args) {
         int i = 4;
