@@ -2,7 +2,7 @@ package com.exercise.thirtyDaysOfCode;
 
 import java.util.Scanner;
 
-public class Day03 {
+public class ConditionalStatement {
 
     private static final Scanner scanner = new Scanner(System.in);
 
