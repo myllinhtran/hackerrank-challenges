@@ -12,8 +12,8 @@ public class Loops {
         int n = scanner.nextInt();
         scanner.skip("(\r\n|[\n\r\u2028\u2029\u0085])?");
 
-        for (int i = 0; i < 10; i++) {
-            System.out.printf("%d x %d = %d %n", n, i + 1, n * (i + 1));
+        for (int i = 1; i <= 10; i++) {
+            System.out.printf("%d x %d = %d %n", n, i, n * i);
         }
         scanner.close();
     }
