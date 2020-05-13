@@ -3,12 +3,6 @@ package com.exercise.thirtyDaysOfCode;
 
 public class BinaryNumbers {
 
-    public static void main(String[] args) {
-
-        int output = printConsecutive(45);
-        System.out.println(output);
-    }
-
     private static int printConsecutive(int n) {
 
         int max = 0;
